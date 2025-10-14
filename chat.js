@@ -449,7 +449,7 @@ else if (msg.includes("apa kabar") || msg.includes("lagi apa")) {
 
 // ====== DEFAULT ======
 else {
-  reply = "Hehe aku belum ngerti maksud kamu 😅 bisa ulangin dengan kata lain gak?";
+  reply = "lu ngomong apa sih ga ngerti gua anjirrr FUCK 🖕 ";
 }
 
   addMessage(reply, "bot");
